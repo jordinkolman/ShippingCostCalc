@@ -1,0 +1,15 @@
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\ShippingCostCalc\bin\Debug\net6.0\ShippingCostCalc.exe
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\ShippingCostCalc\bin\Debug\net6.0\ShippingCostCalc.deps.json
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\ShippingCostCalc\bin\Debug\net6.0\ShippingCostCalc.runtimeconfig.json
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\ShippingCostCalc\bin\Debug\net6.0\ShippingCostCalc.dll
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\ShippingCostCalc\bin\Debug\net6.0\ShippingCostCalc.pdb
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\ShippingCostCalc\obj\Debug\net6.0\ShippingCostCalc.csproj.AssemblyReference.cache
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\ShippingCostCalc\obj\Debug\net6.0\ShippingCostCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\ShippingCostCalc\obj\Debug\net6.0\ShippingCostCalc.AssemblyInfoInputs.cache
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\ShippingCostCalc\obj\Debug\net6.0\ShippingCostCalc.AssemblyInfo.cs
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\ShippingCostCalc\obj\Debug\net6.0\ShippingCostCalc.csproj.CoreCompileInputs.cache
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\ShippingCostCalc\obj\Debug\net6.0\ShippingCostCalc.dll
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\ShippingCostCalc\obj\Debug\net6.0\refint\ShippingCostCalc.dll
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\ShippingCostCalc\obj\Debug\net6.0\ShippingCostCalc.pdb
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\ShippingCostCalc\obj\Debug\net6.0\ShippingCostCalc.genruntimeconfig.cache
+C:\Users\jordi\OneDrive\Documents\School\CEIS209\programs\ShippingCostCalc\obj\Debug\net6.0\ref\ShippingCostCalc.dll
